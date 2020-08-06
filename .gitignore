@@ -1,3 +1,4 @@
 banners-keys
 banners-values
-
+riak.banners.*.tar.gz
+riakdata*
